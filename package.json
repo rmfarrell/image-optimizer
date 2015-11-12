@@ -1,0 +1,14 @@
+{
+  "name": "imgopt",
+  "description": "image optimizer and responsive image generator",
+  "dependencies": {
+    "coffee-script": "1.9.x",
+    "gulp": "^3.9.0",
+    "gulp-cache": "^0.3.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-responsive": "^1.2.1",
+    "imagemin-pngquant": "^4.2.0",
+    "imagemin-svgo": "^4.1.2"
+  }
+}
