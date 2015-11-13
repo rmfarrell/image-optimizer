@@ -1,5 +1,5 @@
 # imgopt
-Simple gulp script which optimizes pngs and svgs and re-saves jpgs as 
+Simple gulp script which optimizes pngs and svgs and re-saves jpgs as progressive.
 
 ## Use
 
