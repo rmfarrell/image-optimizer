@@ -52,3 +52,8 @@ gulp.task 'responsive', ->
     .pipe(gulp.dest dest)
 
 
+gulp.task('clear', (done) ->
+  cache.clearAll(done);
+)
+
+
